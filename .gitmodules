@@ -1,0 +1,6 @@
+[submodule "christopherbradski/themes/themes/after-dark"]
+	path = christopherbradski/themes/themes/after-dark
+	url = https://github.com/getzola/after-dark.git
+[submodule "christopherbradski/themes/after-dark"]
+	path = christopherbradski/themes/after-dark
+	url = https://github.com/getzola/after-dark.git
